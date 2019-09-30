@@ -1,0 +1,3 @@
+/home/ade/Documents/develope-tobil/dev-tobil-c++/MediaPlayerGst/GStreamerMediaPlayer/simple/playback-tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/ade/Documents/develope-tobil/dev-tobil-c++/MediaPlayerGst/GStreamerMediaPlayer/simple/playback-tutorial/build/CMakeFiles/edit_cache.dir
+/home/ade/Documents/develope-tobil/dev-tobil-c++/MediaPlayerGst/GStreamerMediaPlayer/simple/playback-tutorial/build/CMakeFiles/Gst.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Gst.dir/src/playback-tutorial-1.c.o  -o ../bin/Gst /usr/lib/x86_64-linux-gnu/libgstapp-1.0.so /usr/lib/x86_64-linux-gnu/libgstbase-1.0.so /usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so /usr/lib/x86_64-linux-gnu/libgobject-2.0.so /usr/lib/x86_64-linux-gnu/libglib-2.0.so 
